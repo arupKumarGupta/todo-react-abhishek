@@ -1,0 +1,8 @@
+[
+	{ "desc": "Pay bills", "isComplete": true },
+	{ "desc": "Play pubg", "isComplete": false },
+	{ "desc": "sleep", "isComplete": false },
+	{ "desc": "leet code", "isComplete": false },
+	{ "desc": "eat", "isComplete": false },
+	{ "desc": "ofc", "isComplete": false }
+]
